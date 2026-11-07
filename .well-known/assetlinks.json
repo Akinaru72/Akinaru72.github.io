@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.cuberelax.cube100",
+      "sha256_cert_fingerprints": [
+        "E9:1A:00:31:38:F1:B4:EA:FC:84:18:39:E1:73:5B:7D:55:A3:ED:48:E9:50:7F:07:0D:6D:6C:AD:29:E3:15:EF"
+      ]
+    }
+  }
+]
