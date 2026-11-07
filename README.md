@@ -1,0 +1,1 @@
+# Akinaru72.github.io
